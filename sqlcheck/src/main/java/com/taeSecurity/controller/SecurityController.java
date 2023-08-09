@@ -10,7 +10,7 @@ public class SecurityController {
 	public String hello() {
 		
 		System.out.println("c in");
-		return "hello";
+		return "Hello";
 	}
 	
 }
